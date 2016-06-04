@@ -1,0 +1,10 @@
+
+{
+  "name": "symlink-test",
+  "description": "symlink test",
+  "memory": 128,
+  "timeout": 5,
+  "role": "a",
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
